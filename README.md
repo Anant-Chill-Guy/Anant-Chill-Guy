@@ -111,7 +111,7 @@ I'm a Computer Science (AI) student who enjoys doing cybersecurity.
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&amp;logo=metasploit&amp;logoColor=white" alt="Metasploit" />
 <img src="https://img.shields.io/badge/Hashcat-Password%20Cracking-7ED321?style=for-the-badge" alt="Hashcat" />
 <img src="https://img.shields.io/badge/John%20the%20Ripper-Hash%20Cracking-7A1F1F?style=for-the-badge" alt="John the Ripper" />
-<img src="https://img.shields.io/badge/Hydra-Login%20Auditing-1F6FEB?style=for-the-badge" alt="Hydra" />
+<img src="https://img.shields.io/badge/Hydra-Password%20Bruteforcing-1F6FEB?style=for-the-badge" alt="Hydra" />
 <img src="https://img.shields.io/badge/Aircrack--ng-Wireless%20Security-111111?style=for-the-badge" alt="Aircrack-ng" />
 <img src="https://img.shields.io/badge/Gobuster-Enumeration-4B8BBE?style=for-the-badge" alt="Gobuster" />
 
