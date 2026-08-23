@@ -5,7 +5,7 @@
 ### Cybersecurity Enthusiast · Active CTF Player · CSE (AI) Student · Red Teaming
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=23&amp;duration=3000&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Web+Security+%7C+CTFs+%7C+Bug+Bounty;Top+2%25+on+TryHackMe;Building+Breaking+Testing+Things+to+Understand+Them" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=23&amp;duration=3000&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Web+Pentesting+%7C+CTFs+%7C+Bug+Bounty;Top+2%25+on+TryHackMe;Building+-+Breaking+-+Testing+-+Things+-+to+Understand+Them" alt="Typing introduction" />
 </a>
 
 <br />
