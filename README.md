@@ -11,7 +11,7 @@
 <br />
 
 <img src="https://img.shields.io/badge/Learning-Web%20Pentesting-FF3E3E?style=for-the-badge&amp;logo=owasp&amp;logoColor=white" alt="Web Pentesting" />
-<img src="https://img.shields.io/badge/TryHackMe-Top%201%25-212C42?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="Top 2% on TryHackMe" />
+<img src="https://img.shields.io/badge/TryHackMe-Top%202%25-212C42?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="Top 2% on TryHackMe" />
 
 </div>
 
