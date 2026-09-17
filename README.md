@@ -60,7 +60,8 @@ I'm a Computer Science (AI) student who enjoys doing cybersecurity.
     <td width="50%" valign="top">
       <h3 align="center">🕸️ WebXploit</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Private-In%20Development-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Private project" />
+        <a href="https://webxploit.void-society.in">
+        <img src="https://img.shields.io/badge/Private-Visit-8B5CF6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Private project" />
       </p>
       <p>
         A <strong>web-exploitation training platform</strong> designed around progressive, hands-on exploitation in safe and isolated environments.
