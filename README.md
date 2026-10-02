@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="KR4K3N" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=1800&pause=1000&color=00F5D4&center=true&vCenter=true&repeat=false&width=600&height=80&lines=KR4K3N" alt="KR4K3N" />
 </p>
+
+<p align="center"><b>Anant Awasthi</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=00F5D4&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Red+Teaming;Web+%26+Network+Pentesting;CTFs+%7C+Security+Research" alt="Typing introduction" />
@@ -53,9 +55,11 @@ I like understanding systems by breaking them in controlled environments, solvin
 
 ## 🧠 Currently Sharpening
 
-<p align="center">
-  <img src="assets/sharpening.svg" width="720" alt="Skill progress bars" />
-</p>
+- **Web Pentesting** — exploitation & methodology
+- **Network Pentesting** — enumeration & attack paths
+- **Active Directory** — domains & lateral movement
+- **Red Teaming** — end-to-end attack chains
+- **CTFs** — Jeopardy-style challenges
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
@@ -106,4 +110,3 @@ I enjoy building and maintaining my own Linux environment, tweaking every detail
 
 <p align="center"><code>攻撃を理解するには、まず仕組みを理解する。</code></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7B2FF7,100:00F5D4&height=140&section=footer&reversal=true" width="100%" alt="footer" />
