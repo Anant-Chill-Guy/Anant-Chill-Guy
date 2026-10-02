@@ -1,24 +1,12 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Red+Teaming;Web+%26+Network+Pentesting;CTFs+%7C+Security+Research+%7C+Tooling;Breaking+Things+to+Understand+How+They+Work" alt="Typing introduction" />
+</p>
 
-
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Red+Teaming;Web+%26+Network+Pentesting;CTFs+%7C+Security+Research+%7C+Tooling;Breaking+Things+to+Understand+How+They+Work](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=21\&duration=2800\&pause=850\&color=58A6FF\&center=true\&vCenter=true\&width=850\&lines=Offensive+Security+%7C+Red+Teaming;Web+%26+Network+Pentesting;CTFs+%7C+Security+Research+%7C+Tooling;Breaking+Things+to+Understand+How+They+Work)" alt="Typing introduction" />
-\</p>
-
-\<p align="center">
-
-
-\
-
-
-\</p>
-
-\<p align="center">
-
-[TryHackMe](https://tryhackme.com/p/kr4k3nby735) •
-[Hack The Box](https://profile.hackthebox.com/profile/019c6c73-88fa-7258-8ad1-e30a59c03cf4) •
-[GitHub](https://github.com/Anant-Chill-Guy)
-
-\</p>
+<p align="center">
+  <a href="https://tryhackme.com/p/kr4k3nby735">TryHackMe</a> •
+  <a href="https://profile.hackthebox.com/profile/019c6c73-88fa-7258-8ad1-e30a59c03cf4">Hack The Box</a> •
+  <a href="https://github.com/Anant-Chill-Guy">GitHub</a>
+</p>
 
 ---
 
@@ -51,27 +39,23 @@ I like understanding systems by breaking them in controlled environments, solvin
 
 ## ⚔️ Security Focus
 
-| 🔴 Offensive Security |     🌐 Web Security    | 🏢 Internal Security |
-| :-------------------: | :--------------------: | :------------------: |
-|      Red Teaming      |     Reconnaissance     |   Active Directory   |
-|   Network Pentesting  |     Authentication     |    Windows Domains   |
-|  Privilege Escalation |     Access Control     |   Lateral Movement   |
-|      Attack Paths     |    SSRF / XSS / SQLi   |       Kerberos       |
-|   Post-Exploitation   | File & Request Attacks |  Domain Enumeration  |
+| 🔴 Offensive Security | 🌐 Web Security | 🏢 Internal Security |
+| :-------------------: | :-------------: | :------------------: |
+| Red Teaming | Reconnaissance | Active Directory |
+| Network Pentesting | Authentication | Windows Domains |
+| Privilege Escalation | Access Control | Lateral Movement |
+| Attack Paths | SSRF / XSS / SQLi | Kerberos |
+| Post-Exploitation | File & Request Attacks | Domain Enumeration |
 
 ---
 
 ## 🏆 Platforms
 
-\<p align="center">
-
-
-
-
-
-
-
-\</p>
+<p align="center">
+  <a href="https://tryhackme.com/p/kr4k3nby735"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://profile.hackthebox.com/profile/019c6c73-88fa-7258-8ad1-e30a59c03cf4"><img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" /></a>
+  <a href="https://github.com/Anant-Chill-Guy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
@@ -90,33 +74,13 @@ SECURITY TOOLING     ██████████░░░░░░░░  Off
 
 ## 🧰 Toolbox
 
-\<p align="center">
-
-\<img src="[https://skillicons.dev/icons?i=python,c,cpp,bash,js,html,css,flask,git,docker,linux,arch&perline=12](https://skillicons.dev/icons?i=python,c,cpp,bash,js,html,css,flask,git,docker,linux,arch\&perline=12)" alt="Development and systems" />
-
-\<br>\<br>
-
-
-
-
-
-
-\
-
-
-\</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,js,html,css,flask,git,docker,linux,arch&perline=12" alt="Development and systems" />
+</p>
 
 ---
 
 ## 📜 Certifications
-
-\<p align="center">
-
-
-
-
-
-\</p>
 
 ### Current Certification Path
 
@@ -140,23 +104,14 @@ Working around:
 
 ## 🐧 Environment
 
-\<p align="center">
-
-`Arch Linux` · `Hyprland` · `Zsh` · `Terminal-first`
-
-\</p>
+<p align="center">
+  <code>Arch Linux</code> · <code>Hyprland</code> · <code>Zsh</code> · <code>Terminal-first</code>
+</p>
 
 I enjoy building and maintaining my own Linux environment and keeping my workflow close to the terminal.
 
 ---
 
-\<p align="center">
-
-### `攻撃を理解するには、まず仕組みを理解する。`
-
-\<br>
-
-
-
-\</p>
-
+<p align="center">
+  <h3 align="center"><code>攻撃を理解するには、まず仕組みを理解する。</code></h3>
+</p>
