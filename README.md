@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=00F5D4&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Red+Teaming;Web+%26+Network+Pentesting;CTFs+%7C+Security+Research+%7C+Tooling;Ricing+Arch+%7C+Hyprland+%7C+Custom+UI;Breaking+Things+to+Understand+How+They+Work" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=850&color=00F5D4&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Red+Teaming;Web+%26+Network+Pentesting;CTFs+%7C+Security+Research" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -21,21 +21,19 @@ Anant Awasthi
 ├── Offensive Security
 ├── Web & Network Pentesting
 ├── CTF Player
-├── Security Tooling
 └── Linux Ricer
 ```
 
 I'm a **Computer Science (AI) student** focused on **offensive security and web security**.
 
-I like understanding systems by breaking them in controlled environments, solving difficult CTFs, and building tools that make security workflows faster and more practical.
+I like understanding systems by breaking them in controlled environments, solving difficult CTFs, and learning how attackers think.
 
 - 🛡️ Web & Network Penetration Testing
 - 🚩 CTFs & Offensive Security
 - 🏢 Active Directory & Internal Network Security
-- 🧰 Security Tooling & Automation
 - 🎨 Ricing, customizing and building custom UIs on Linux
 - 🐧 Arch Linux enthusiast
-- 🤖 AI/ML applied to automation and security
+- 🤖 AI/ML applied to security
 
 > `learn → break → understand → build`
 
@@ -72,10 +70,6 @@ I like understanding systems by breaking them in controlled environments, solvin
 ## 🐧 Environment
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=F15BB5&center=true&vCenter=true&width=700&lines=I+enjoy+ricing;Customizing+every+pixel;Custom+displays+%26+UI;Terminal-first+workflow" alt="Ricing" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=00F5D4&color=7B2FF7" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Hyprland-0D1117?style=for-the-badge&logo=hyprland&logoColor=00F5D4&color=7B2FF7" alt="Hyprland" />
   <img src="https://img.shields.io/badge/Wayland-0D1117?style=for-the-badge&logo=wayland&logoColor=00F5D4&color=7B2FF7" alt="Wayland" />
@@ -110,8 +104,6 @@ I enjoy building and maintaining my own Linux environment, tweaking every detail
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=F15BB5&center=true&vCenter=true&width=700&lines=%E6%94%BB%E6%92%83%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF%E3%80%81%E3%81%BE%E3%81%9A%E4%BB%95%E7%B5%84%E3%81%BF%E3%82%92%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B%E3%80%82" alt="Japanese quote" />
-</p>
+<p align="center"><code>攻撃を理解するには、まず仕組みを理解する。</code></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:7B2FF7,100:00F5D4&height=140&section=footer&reversal=true" width="100%" alt="footer" />
