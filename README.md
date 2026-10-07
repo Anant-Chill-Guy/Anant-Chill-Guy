@@ -114,21 +114,9 @@ My technical interests span red teaming, web and network penetration testing, re
   <img src="https://img.shields.io/badge/Subfinder-0D1117?style=for-the-badge&color=00C9AE" alt="Subfinder" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Sliver-0D1117?style=for-the-badge&color=7B2FF7" alt="Sliver" />
-  <img src="https://img.shields.io/badge/Mimikatz-0D1117?style=for-the-badge&color=F15BB5" alt="Mimikatz" />
-  <img src="https://img.shields.io/badge/Rubeus-0D1117?style=for-the-badge&color=00C9AE" alt="Rubeus" />
-  <img src="https://img.shields.io/badge/Certipy-0D1117?style=for-the-badge&color=7B2FF7" alt="Certipy" />
-  <img src="https://img.shields.io/badge/Responder-0D1117?style=for-the-badge&color=F15BB5" alt="Responder" />
-  <img src="https://img.shields.io/badge/Evil--WinRM-0D1117?style=for-the-badge&color=00C9AE" alt="Evil-WinRM" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cobalt_Strike-0D1117?style=for-the-badge&color=7B2FF7" alt="Cobalt Strike" />
-  <img src="https://img.shields.io/badge/Havoc-0D1117?style=for-the-badge&color=F15BB5" alt="Havoc" />
   <img src="https://img.shields.io/badge/sqlmap-0D1117?style=for-the-badge&color=00C9AE" alt="sqlmap" />
   <img src="https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&color=7B2FF7" alt="Hydra" />
   <img src="https://img.shields.io/badge/John_the_Ripper-0D1117?style=for-the-badge&color=F15BB5" alt="John the Ripper" />
-  <img src="https://img.shields.io/badge/Chisel-0D1117?style=for-the-badge&color=00C9AE" alt="Chisel" />
-  <img src="https://img.shields.io/badge/Ligolo--ng-0D1117?style=for-the-badge&color=7B2FF7" alt="Ligolo-ng" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
