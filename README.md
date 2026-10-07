@@ -185,48 +185,6 @@ flowchart LR
 
 </div>
 
-<details>
-<summary><b>Rice gallery (click to expand)</b></summary>
-<br>
-
-<p align="center"><i>screenshots coming soon…</i></p>
-
-</details>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anant-Chill-Guy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9&ring_color=F15BB5" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-Chill-Guy&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anant-Chill-Guy&hide_border=true&background=0D1117&stroke=7B2FF7&ring=00F5D4&fire=F15BB5&currStreakLabel=00F5D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anant-Chill-Guy&bg_color=0D1117&color=00F5D4&line=7B2FF7&point=F15BB5&area=true&area_color=7B2FF7&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anant-Chill-Guy&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anant-Chill-Guy/Anant-Chill-Guy/output/github-snake-dark.svg" alt="Contribution snake" />
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Anant-Chill-Guy/Sentinel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anant-Chill-Guy&repo=Sentinel&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9" alt="Sentinel" /></a>
-  <img src="assets/webxploit.svg" alt="WebXploit (private)" />
-</p>
-
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## Hunting Grounds
