@@ -13,10 +13,6 @@
 
 ## `~/whoami`
 
-<table>
-<tr>
-<td width="48%" valign="top">
-
 ```ansi
 ┌──(kr4k3n㉿arch)-[~]
 └─$ cat about.txt
@@ -33,28 +29,25 @@
 └─$ █
 ```
 
-</td>
-<td width="52%" valign="top">
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-Happy by day, sad kid by night. Origin story? A plot twist, a lot of free time, in that order. I usually stay up all night on coffee and started calling two hours of sleep a "productive day". My sleep schedule isn't broken, it just runs in a timezone nobody else lives in.
+## Intro
 
-My music playlist and my `.zshrc` would like a word. Both are very well organized, and both are pretty sad.
+### Happy by day, sad kid by night. Origin story? A plot twist, a lot of free time, in that order. I usually stay up all night on coffee and started calling two hours of sleep a "productive day". My sleep schedule isn't broken, it just runs in a timezone nobody else lives in.
 
-Officially, I'm a CSE (AI) student. Unofficially, I'm a guy who asked "what happens if I pursue something else?" and got way more than I ever Thought I Could. Now I'm deep into **offensive security**: red teaming, web and network pentesting, recon, vulnerability analysis, privilege escalation, Active Directory, Windows security, Linux, networking and cryptography. Every single one of them started with "Let's try something new".
+### My music playlist and my `.zshrc` would like a word. Both are very well organized, and both are pretty sad.
 
-CTFs are the only place where being stubborn at 3 AM gets rewarded with a scoreboard position instead of just a abandonment. Okay, also a feeling of emptiness sometimes. Somehow it has landed me a few top finishes, and my sleep schedule is already filing a request for credit.
+### Officially, I'm a CSE (AI) student. Unofficially, I'm a guy who asked "what happens if I pursue something else?" and got way more than I ever Thought I Could. Now I'm deep into **offensive security**: red teaming, web and network pentesting, recon, vulnerability analysis, privilege escalation, Active Directory, Windows security, Linux, networking and cryptography. Every single one of them started with "Let's try something new".
 
-AI/ML fundamentals sit on the side, mostly so I can also see towards my academics, a side quest I take very seriously, roughly one week before exams. On the other days I just sit and enjoy the day with my laptop, which has pretty strong opinions about my bedtime, of which I'm unsure.
+### CTFs are the only place where being stubborn at 3 AM gets rewarded with a scoreboard position instead of just an abandonment. Okay, also a feeling of emptiness sometimes. Somehow it has landed me a few top finishes, and my sleep schedule is already filing a request for credit.
 
-Yes, I use Arch, btw. Yes, I run Hyprland on it, and yes, I spend hours fixing it whenever it breaks. That's not a bug, that's a hobby with extra steps. No, I'm not a freak, I just love ricing it until it's exactly how I like it. Does it make me faster at CTFs or offensive security? No. Does it make my desktop look incredible? Absolutely.
+### AI/ML fundamentals sit on the side, mostly so I can also see towards my academics, a side quest I take very seriously, roughly one week before exams. On the other days I just sit and enjoy the day with my laptop, which has pretty strong opinions about my bedtime, of which I'm unsure.
 
-It's just a kind of peace for me. Maybe I'm running away from my past, but I am what I am, and that's what matters. Also, nothing distracts you from a broken heart quite like a broken Arch setup.
+### Yes, I use Arch, btw. Yes, I run Hyprland on it, and yes, I spend hours fixing it whenever it breaks. That's not a bug, that's a hobby with extra steps. No, I'm not a freak, I just love ricing it until it's exactly how I like it. Does it make me faster at CTFs or offensive security? No. Does it make my desktop look incredible? Absolutely.
 
-Anyway, that's the story. Coffee's getting cold, the scoreboard is open, and somewhere Arch got a update, it needs some fixes urgently. I have work to do.
+### It's just a kind of peace for me. Maybe I'm running away from my past, but I am what I am, and that's what matters. Also, nothing distracts you from a broken heart quite like a broken Arch setup.
 
-</td>
-</tr>
-</table>
+### Anyway, that's the story. Coffee's getting cold, the scoreboard is open, and somewhere Arch got an update, it needs some fixes urgently. I have work to do.
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
