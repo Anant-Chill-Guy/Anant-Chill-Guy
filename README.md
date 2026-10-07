@@ -3,14 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00F5D4&center=true&vCenter=true&width=760&height=40&lines=%24+nmap+-sC+-sV+target+%E2%86%92+enumerating+everything;%24+bloodhound+%E2%86%92+mapping+attack+paths;%24+hunting+flags+on+TryHackMe+%26+HackTheBox;%24+rice+--arch+--hyprland+%E2%86%92+never+stock;%24+learn+%E2%86%92+break+%E2%86%92+understand+%E2%86%92+build" alt="Typing animation" />
-</p>
-
-<p align="center">
   <a href="https://tryhackme.com/p/kr4k3nby735"><img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00F5D4&labelColor=0D1117&color=7B2FF7" alt="TryHackMe" /></a>
   <a href="https://profile.hackthebox.com/profile/019c6c73-88fa-7258-8ad1-e30a59c03cf4"><img src="https://img.shields.io/badge/Hack_The_Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0D1117&color=F15BB5" alt="Hack The Box" /></a>
   <a href="https://github.com/Anant-Chill-Guy"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0D1117&color=7B2FF7" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/anant-awasthi-542b113a4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRjVENCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=0D1117&color=7B2FF7" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/anant-awasthi-542b113a4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRjVENCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&labelColor=0D1117&color=F15BB5" alt="LinkedIn" /></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
@@ -19,7 +15,7 @@
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="48%" valign="top">
 
 ```ansi
 ┌──(kr4k3n㉿arch)-[~]
@@ -32,58 +28,21 @@
   stack     : web · network · active directory
   habitat   : Arch Linux + Hyprland
   hobbies   : CTFs · ricing · custom UIs
-  mantra    : learn → break → understand → build
 
 ┌──(kr4k3n㉿arch)-[~]
 └─$ █
 ```
 
 </td>
-<td width="44%" valign="top">
+<td width="52%" valign="top">
 
-I'm a **Computer Science (AI)** student obsessed with **offensive security**.
+I'm a **CSE (AI) student** with a strong interest in **offensive security**, red teaming, practical cybersecurity and AI/ML.
 
-I like understanding systems by **breaking them in controlled environments**, grinding hard CTFs, and learning how attackers think so I can build better defenses.
-
-- Web & network pentesting
-- CTFs & red teaming
-- Active Directory attack paths
-- AI/ML applied to security
-- Ricing Arch like it's a sport
+My technical interests span red teaming, web and network penetration testing, reconnaissance, vulnerability analysis, privilege escalation, Active Directory, Windows security, Linux, networking, cryptography, and AI/ML fundamentals.
 
 </td>
 </tr>
 </table>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## Security Focus
-
-<div align="center">
-
-| Offensive Security | Web Security | Internal Security |
-| :-------------------: | :-------------: | :------------------: |
-| Red Teaming | Reconnaissance | Active Directory |
-| Network Pentesting | Authentication | Windows Domains |
-| Privilege Escalation | Access Control | Lateral Movement |
-| Attack Paths | SSRF · XSS · SQLi | Kerberos |
-| Post-Exploitation | File & Request Attacks | Domain Enumeration |
-
-</div>
-
-### My Methodology
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#00F5D4','primaryBorderColor':'#7B2FF7','lineColor':'#F15BB5','fontFamily':'monospace'}}}%%
-flowchart LR
-    A([Recon]) --> B([Enumeration])
-    B --> C([Initial Access])
-    C --> D([Privilege Escalation])
-    D --> E([Lateral Movement])
-    E --> F([Objectives])
-    F --> G([Report])
-    G -.->|lessons learned| A
-```
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
@@ -99,14 +58,36 @@ flowchart LR
 
 ### Roadmap
 
-- [x] Linux fundamentals & Arch daily-driver
-- [x] Web vulns: SQLi, XSS, SSRF, auth & access control
-- [x] Network enumeration & service exploitation
-- [ ] Active Directory: Kerberos attacks, ACL abuse, domain takeover
-- [ ] Red team tradecraft: C2, evasion, OPSEC
-- [ ] Binary exploitation & reverse engineering
-- [ ] Write-ups for every solved box and challenge
-- [ ] Industry certification (OSCP-style path)
+<div align="center">
+
+| Topic | Status |
+| :---- | :----: |
+| Linux fundamentals & Arch daily-driver | <img src="https://img.shields.io/badge/Done-0D1117?style=flat-square&color=00C9AE" alt="Done" /> |
+| Web vulns: SQLi, XSS, SSRF, auth & access control | <img src="https://img.shields.io/badge/Done-0D1117?style=flat-square&color=00C9AE" alt="Done" /> |
+| Network enumeration & service exploitation | <img src="https://img.shields.io/badge/Working-0D1117?style=flat-square&color=7B2FF7" alt="Working" /> |
+| Active Directory: Kerberos attacks, ACL abuse, domain takeover | <img src="https://img.shields.io/badge/Working-0D1117?style=flat-square&color=7B2FF7" alt="Working" /> |
+| Red team tradecraft: C2, evasion, OPSEC | <img src="https://img.shields.io/badge/Working-0D1117?style=flat-square&color=7B2FF7" alt="Working" /> |
+| Binary exploitation & reverse engineering | <img src="https://img.shields.io/badge/Maybe_someday-0D1117?style=flat-square&color=F15BB5" alt="Maybe_someday" /> |
+
+</div>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+## CTF Achievements
+
+<div align="center">
+
+| Placement | Competition |
+| :-------: | :---------- |
+| **3rd** | 07CTF 2026 (Human Division) |
+| **4th** | Hack Or Crack 2.0 CTF 2026 |
+| **7th** | Jail CTF 2026 (Human Division) |
+| **10th** | Aerospace StarPwn @ DEFCON |
+| **10th** | MythX Offline CTF 2026 |
+
+</div>
+
+<p align="center"><sub>Plus multiple other top-20 finishes across international CTF competitions.</sub></p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
@@ -123,35 +104,32 @@ flowchart LR
   <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00F5D4" alt="Nmap" />
   <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=2596CD" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/BloodHound-0D1117?style=for-the-badge&color=F15BB5" alt="BloodHound" />
-  <img src="https://img.shields.io/badge/Impacket-0D1117?style=for-the-badge&color=7B2FF7" alt="Impacket" />
-  <img src="https://img.shields.io/badge/ffuf-0D1117?style=for-the-badge&color=00F5D4" alt="ffuf" />
-  <img src="https://img.shields.io/badge/Gobuster-0D1117?style=for-the-badge&color=F15BB5" alt="Gobuster" />
+  <img src="https://img.shields.io/badge/BloodHound-0D1117?style=for-the-badge&color=7B2FF7" alt="BloodHound" />
+  <img src="https://img.shields.io/badge/Impacket-0D1117?style=for-the-badge&color=F15BB5" alt="Impacket" />
+  <img src="https://img.shields.io/badge/ffuf-0D1117?style=for-the-badge&color=00C9AE" alt="ffuf" />
   <img src="https://img.shields.io/badge/Hashcat-0D1117?style=for-the-badge&color=7B2FF7" alt="Hashcat" />
-  <img src="https://img.shields.io/badge/NetExec-0D1117?style=for-the-badge&color=00F5D4" alt="NetExec" />
+  <img src="https://img.shields.io/badge/NetExec-0D1117?style=for-the-badge&color=F15BB5" alt="NetExec" />
+  <img src="https://img.shields.io/badge/Subfinder-0D1117?style=for-the-badge&color=00C9AE" alt="Subfinder" />
 </p>
-
-<details>
-<summary><b>What I use each tool for</b></summary>
-<br>
-
-<div align="center">
-
-| Phase | Tools |
-| :---: | :---: |
-| Recon & scanning | Nmap · ffuf · Gobuster |
-| Web testing | Burp Suite · custom Python scripts |
-| Traffic analysis | Wireshark |
-| AD enumeration | BloodHound · NetExec · Impacket |
-| Cracking | Hashcat |
-| Exploitation | Metasploit · manual PoCs |
-
-</div>
-
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sliver-0D1117?style=for-the-badge&color=7B2FF7" alt="Sliver" />
+  <img src="https://img.shields.io/badge/Mimikatz-0D1117?style=for-the-badge&color=F15BB5" alt="Mimikatz" />
+  <img src="https://img.shields.io/badge/Rubeus-0D1117?style=for-the-badge&color=00C9AE" alt="Rubeus" />
+  <img src="https://img.shields.io/badge/Certipy-0D1117?style=for-the-badge&color=7B2FF7" alt="Certipy" />
+  <img src="https://img.shields.io/badge/Responder-0D1117?style=for-the-badge&color=F15BB5" alt="Responder" />
+  <img src="https://img.shields.io/badge/Evil--WinRM-0D1117?style=for-the-badge&color=00C9AE" alt="Evil-WinRM" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cobalt_Strike-0D1117?style=for-the-badge&color=7B2FF7" alt="Cobalt Strike" />
+  <img src="https://img.shields.io/badge/Havoc-0D1117?style=for-the-badge&color=F15BB5" alt="Havoc" />
+  <img src="https://img.shields.io/badge/sqlmap-0D1117?style=for-the-badge&color=00C9AE" alt="sqlmap" />
+  <img src="https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&color=7B2FF7" alt="Hydra" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-0D1117?style=for-the-badge&color=F15BB5" alt="John the Ripper" />
+  <img src="https://img.shields.io/badge/Chisel-0D1117?style=for-the-badge&color=00C9AE" alt="Chisel" />
+  <img src="https://img.shields.io/badge/Ligolo--ng-0D1117?style=for-the-badge&color=7B2FF7" alt="Ligolo-ng" />
+</p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
@@ -178,7 +156,7 @@ flowchart LR
 <div align="center">
 
 | Ricing | Displays | UI |
-| :-------: | :---------: | :---: |
+| :----: | :------: | :-: |
 | Dotfiles & configs | Custom layouts | Custom widgets |
 | Color schemes & themes | Multi-monitor setups | Animations & blur |
 | Fonts & icons | Wallpapers & lockscreens | Menus & notifications |
@@ -195,12 +173,9 @@ flowchart LR
 | :------: | :---: | :-----: |
 | **TryHackMe** | Guided rooms, AD & web paths | [kr4k3nby735](https://tryhackme.com/p/kr4k3nby735) |
 | **Hack The Box** | Boxes, labs, real attack chains | [Profile](https://profile.hackthebox.com/profile/019c6c73-88fa-7258-8ad1-e30a59c03cf4) |
+| **CyLab Academy** | Hands-on labs & training | [kr4k3nx](https://learn.cylabacademy.org/users/kr4k3nx) |
 
 </div>
-
-<p align="center">
-  <sub>All offensive work is done on authorized targets: labs, CTFs, and systems I have permission to test.</sub>
-</p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
@@ -209,15 +184,13 @@ flowchart LR
 <p align="center">
   <a href="https://github.com/Anant-Chill-Guy"><img src="https://img.shields.io/badge/GitHub-Anant--Chill--Guy-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4&color=7B2FF7" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/anant-awasthi-542b113a4"><img src="https://img.shields.io/badge/LinkedIn-Anant_Awasthi-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwRjVENCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&color=F15BB5" alt="LinkedIn" /></a>
-  <a href="https://tryhackme.com/p/kr4k3nby735"><img src="https://img.shields.io/badge/THM-kr4k3nby735-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00F5D4&color=F15BB5" alt="THM" /></a>
 </p>
 
-<p align="center"><sub>Open to collaborating on CTF teams, security tooling, and Linux UI projects.</sub></p>
+<p align="center"><sub>Open To Collaborating in CTF's and Projects.</sub></p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center"><code>攻撃を理解するには、まず仕組みを理解する。</code></p>
-<p align="center"><sub><i>"To understand the attack, first understand the system."</i></sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,2,24&section=footer&animation=twinkling" width="100%" alt="" />
