@@ -1,10 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════
-     KR4K3N · Anant Awasthi · profile README
-     Repo name must be: Anant-Chill-Guy/Anant-Chill-Guy
-     Files needed: README.md, assets/header.svg, assets/divider.svg,
-                   .github/workflows/snake.yml
-     ═══════════════════════════════════════════════════════════ -->
-
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="KR4K3N - Anant Awasthi" />
 </p>
@@ -52,11 +45,11 @@ I'm a **Computer Science (AI)** student obsessed with **offensive security**.
 
 I like understanding systems by **breaking them in controlled environments**, grinding hard CTFs, and learning how attackers think so I can build better defenses.
 
-🛡️ Web & network pentesting
-🚩 CTFs & red teaming
-🏢 Active Directory attack paths
-🤖 AI/ML applied to security
-🐧 Ricing Arch like it's a sport
+- Web & network pentesting
+- CTFs & red teaming
+- Active Directory attack paths
+- AI/ML applied to security
+- Ricing Arch like it's a sport
 
 </td>
 </tr>
@@ -64,11 +57,11 @@ I like understanding systems by **breaking them in controlled environments**, gr
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## ⚔️ Security Focus
+## Security Focus
 
 <div align="center">
 
-| 🔴 Offensive Security | 🌐 Web Security | 🏢 Internal Security |
+| Offensive Security | Web Security | Internal Security |
 | :-------------------: | :-------------: | :------------------: |
 | Red Teaming | Reconnaissance | Active Directory |
 | Network Pentesting | Authentication | Windows Domains |
@@ -78,23 +71,23 @@ I like understanding systems by **breaking them in controlled environments**, gr
 
 </div>
 
-### 🗺️ My Methodology
+### My Methodology
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#00F5D4','primaryBorderColor':'#7B2FF7','lineColor':'#F15BB5','fontFamily':'monospace'}}}%%
 flowchart LR
-    A([🔍 Recon]) --> B([📡 Enumeration])
-    B --> C([💥 Initial Access])
-    C --> D([⬆️ Privilege Escalation])
-    D --> E([🔀 Lateral Movement])
-    E --> F([🏴 Objectives])
-    F --> G([📝 Report])
+    A([Recon]) --> B([Enumeration])
+    B --> C([Initial Access])
+    C --> D([Privilege Escalation])
+    D --> E([Lateral Movement])
+    E --> F([Objectives])
+    F --> G([Report])
     G -.->|lessons learned| A
 ```
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 🧠 Currently Sharpening
+## Currently Sharpening
 
 ```text
  web pentesting      ████████████░░░░░░░░   exploitation & methodology
@@ -104,7 +97,7 @@ flowchart LR
  ctf (jeopardy)      █████████████░░░░░░░   web · pwn · crypto · forensics
 ```
 
-### 🛣️ Roadmap
+### Roadmap
 
 - [x] Linux fundamentals & Arch daily-driver
 - [x] Web vulns: SQLi, XSS, SSRF, auth & access control
@@ -117,7 +110,7 @@ flowchart LR
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 🧰 Arsenal
+## Arsenal
 
 <p align="center"><b>Languages & Systems</b></p>
 <p align="center">
@@ -142,7 +135,7 @@ flowchart LR
 </p>
 
 <details>
-<summary><b>🔎 What I use each tool for</b></summary>
+<summary><b>What I use each tool for</b></summary>
 <br>
 
 <div align="center">
@@ -162,7 +155,7 @@ flowchart LR
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 🐧 Environment
+## Environment
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=00F5D4&color=7B2FF7" alt="Arch Linux" />
@@ -184,7 +177,7 @@ flowchart LR
 
 <div align="center">
 
-| 🎨 Ricing | 🖥️ Displays | 🧩 UI |
+| Ricing | Displays | UI |
 | :-------: | :---------: | :---: |
 | Dotfiles & configs | Custom layouts | Custom widgets |
 | Color schemes & themes | Multi-monitor setups | Animations & blur |
@@ -193,15 +186,8 @@ flowchart LR
 </div>
 
 <details>
-<summary><b>📸 Rice gallery (click to expand)</b></summary>
+<summary><b>Rice gallery (click to expand)</b></summary>
 <br>
-
-<!-- Add screenshots to assets/ then uncomment:
-<p align="center">
-  <img src="assets/rice1.png" width="49%" />
-  <img src="assets/rice2.png" width="49%" />
-</p>
--->
 
 <p align="center"><i>screenshots coming soon…</i></p>
 
@@ -209,7 +195,7 @@ flowchart LR
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anant-Chill-Guy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9&ring_color=F15BB5" alt="GitHub stats" />
@@ -234,7 +220,7 @@ flowchart LR
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/Anant-Chill-Guy/Sentinel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anant-Chill-Guy&repo=Sentinel&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9" alt="Sentinel" /></a>
@@ -243,7 +229,7 @@ flowchart LR
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 🚩 Hunting Grounds
+## Hunting Grounds
 
 <div align="center">
 
@@ -255,12 +241,12 @@ flowchart LR
 </div>
 
 <p align="center">
-  <sub>⚠️ All offensive work is done on authorized targets: labs, CTFs, and systems I have permission to test.</sub>
+  <sub>All offensive work is done on authorized targets: labs, CTFs, and systems I have permission to test.</sub>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/Anant-Chill-Guy"><img src="https://img.shields.io/badge/GitHub-Anant--Chill--Guy-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4&color=7B2FF7" alt="GitHub" /></a>
