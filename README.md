@@ -36,9 +36,21 @@
 </td>
 <td width="52%" valign="top">
 
-I'm a **CSE (AI) student** with a strong interest in **offensive security**, red teaming, practical cybersecurity and AI/ML.
+Happy by day, sad kid by night. Origin story? A plot twist, a lot of free time, in that order. I usually stay up all night on coffee and started calling two hours of sleep a "productive day". My sleep schedule isn't broken, it just runs in a timezone nobody else lives in.
 
-My technical interests span red teaming, web and network penetration testing, reconnaissance, vulnerability analysis, privilege escalation, Active Directory, Windows security, Linux, networking, cryptography, and AI/ML fundamentals.
+My music playlist and my `.zshrc` would like a word. Both are very well organized, and both are pretty sad.
+
+Officially, I'm a CSE (AI) student. Unofficially, I'm a guy who asked "what happens if I pursue something else?" and got way more than I ever Thought I Could. Now I'm deep into **offensive security**: red teaming, web and network pentesting, recon, vulnerability analysis, privilege escalation, Active Directory, Windows security, Linux, networking and cryptography. Every single one of them started with "Let's try something new".
+
+CTFs are the only place where being stubborn at 3 AM gets rewarded with a scoreboard position instead of just a abandonment. Okay, also a feeling of emptiness sometimes. Somehow it has landed me a few top finishes, and my sleep schedule is already filing a request for credit.
+
+AI/ML fundamentals sit on the side, mostly so I can also see towards my academics, a side quest I take very seriously, roughly one week before exams. On the other days I just sit and enjoy the day with my laptop, which has pretty strong opinions about my bedtime, of which I'm unsure.
+
+Yes, I use Arch, btw. Yes, I run Hyprland on it, and yes, I spend hours fixing it whenever it breaks. That's not a bug, that's a hobby with extra steps. No, I'm not a freak, I just love ricing it until it's exactly how I like it. Does it make me faster at CTFs or offensive security? No. Does it make my desktop look incredible? Absolutely.
+
+It's just a kind of peace for me. Maybe I'm running away from my past, but I am what I am, and that's what matters. Also, nothing distracts you from a broken heart quite like a broken Arch setup.
+
+Anyway, that's the story. Coffee's getting cold, the scoreboard is open, and somewhere Arch got a update, it needs some fixes urgently. I have work to do.
 
 </td>
 </tr>
