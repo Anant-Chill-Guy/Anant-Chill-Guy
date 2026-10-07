@@ -43,7 +43,7 @@
 
 ### AI/ML fundamentals sit on the side, mostly so I can also see towards my academics, a side quest I take very seriously, roughly one week before exams. On the other days I just sit and enjoy the day with my laptop, which has pretty strong opinions about my bedtime, of which I'm unsure.
 
-### Yes, I use Arch, btw. Yes, I run Hyprland on it, and yes, I spend hours fixing it whenever it breaks. That's not a bug, that's a hobby with extra steps. No, I'm not a freak, I just love ricing it until it's exactly how I like it. Does it make me faster at CTFs or offensive security? No. Does it make my desktop look incredible? Absolutely.
+### Yes, I use Arch, btw. Yes, I run Hyprland on it, and yes, I spend hours fixing it whenever it breaks. That's not a bug, that's a great feature and a hobby with extra steps. No, I'm not a freak, I just love ricing it until it's exactly how I like it. Does it make me faster at CTFs or offensive security? No. Does it make my desktop look incredible? Absolutely.
 
 ### It's just a kind of peace for me. Maybe I'm running away from my past, but I am what I am, and that's what matters. Also, nothing distracts you from a broken heart quite like a broken Arch setup.
 
