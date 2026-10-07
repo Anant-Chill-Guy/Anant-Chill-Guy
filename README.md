@@ -10,7 +10,7 @@
   <a href="https://tryhackme.com/p/kr4k3nby735"><img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00F5D4&labelColor=0D1117&color=7B2FF7" alt="TryHackMe" /></a>
   <a href="https://profile.hackthebox.com/profile/019c6c73-88fa-7258-8ad1-e30a59c03cf4"><img src="https://img.shields.io/badge/Hack_The_Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0D1117&color=F15BB5" alt="Hack The Box" /></a>
   <a href="https://github.com/Anant-Chill-Guy"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4&labelColor=0D1117&color=7B2FF7" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Anant-Chill-Guy&label=PROFILE+VIEWS&style=for-the-badge&color=F15BB5&labelColor=0D1117" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/anant-awasthi-542b113a4"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&labelColor=0D1117&color=7B2FF7" alt="LinkedIn" /></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
@@ -208,6 +208,7 @@ flowchart LR
 
 <p align="center">
   <a href="https://github.com/Anant-Chill-Guy"><img src="https://img.shields.io/badge/GitHub-Anant--Chill--Guy-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4&color=7B2FF7" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/anant-awasthi-542b113a4"><img src="https://img.shields.io/badge/LinkedIn-Anant_Awasthi-0D1117?style=for-the-badge&color=F15BB5" alt="LinkedIn" /></a>
   <a href="https://tryhackme.com/p/kr4k3nby735"><img src="https://img.shields.io/badge/THM-kr4k3nby735-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00F5D4&color=F15BB5" alt="THM" /></a>
 </p>
 
