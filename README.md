@@ -236,10 +236,10 @@ flowchart LR
 
 ## 🚀 Featured Projects
 
-<!-- Replace REPO_NAME with real repo names to show pinned cards -->
+<!-- Replace Sentinel with real repo names to show pinned cards -->
 <p align="center">
-  <a href="https://github.com/Anant-Chill-Guy/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anant-Chill-Guy&repo=REPO_NAME&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9" alt="Project 1" /></a>
-  <a href="https://github.com/Anant-Chill-Guy/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anant-Chill-Guy&repo=REPO_NAME_2&hide_border=true&bg_color=0D1117&title_color=F15BB5&icon_color=7B2FF7&text_color=C9D1D9" alt="Project 2" /></a>
+  <a href="https://github.com/Anant-Chill-Guy/Sentinel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anant-Chill-Guy&repo=Sentinel&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=7B2FF7&text_color=C9D1D9" alt="Project 1" /></a>
+  <a href="https://github.com/Anant-Chill-Guy/WebXploit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anant-Chill-Guy&repo=WebXploit&hide_border=true&bg_color=0D1117&title_color=F15BB5&icon_color=7B2FF7&text_color=C9D1D9" alt="Project 2" /></a>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
