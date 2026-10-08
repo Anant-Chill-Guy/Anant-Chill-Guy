@@ -69,7 +69,6 @@
 | Web vulns: SQLi, XSS, SSRF, auth & access control | <img src="https://img.shields.io/badge/Done-0D1117?style=flat-square&color=00C9AE" alt="Done" /> |
 | Network enumeration & service exploitation | <img src="https://img.shields.io/badge/Working-0D1117?style=flat-square&color=7B2FF7" alt="Working" /> |
 | Active Directory: Kerberos attacks, ACL abuse, domain takeover | <img src="https://img.shields.io/badge/Working-0D1117?style=flat-square&color=7B2FF7" alt="Working" /> |
-| Red team tradecraft: C2, evasion, OPSEC | <img src="https://img.shields.io/badge/Working-0D1117?style=flat-square&color=7B2FF7" alt="Working" /> |
 | Binary exploitation & reverse engineering | <img src="https://img.shields.io/badge/Maybe_someday-0D1117?style=flat-square&color=F15BB5" alt="Maybe_someday" /> |
 
 </div>
