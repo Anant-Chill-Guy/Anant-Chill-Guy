@@ -14,8 +14,7 @@
 ## `~/whoami`
 
 ```ansi
-┌──(kr4k3n㉿arch)-[~]
-└─$ cat about.txt
+1CH1G0:1CH13 ~ ❯ cat about.txt
 
   name      : Anant Awasthi
   alias     : KR4K3N
@@ -25,8 +24,7 @@
   habitat   : Arch Linux + Hyprland
   hobbies   : CTFs · ricing · custom UIs
 
-┌──(kr4k3n㉿arch)-[~]
-└─$ █
+1CH1G0:1CH13 ~ ❯ █
 ```
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
@@ -165,7 +163,7 @@
 | Platform | Focus | Profile |
 | :------: | :---: | :-----: |
 | **TryHackMe** | Guided rooms, AD & web paths | [kr4k3nby735](https://tryhackme.com/p/kr4k3nby735) |
-| **Hack The Box** | Boxes, labs, real attack chains | [Profile](https://profile.hackthebox.com/profile/019c6c73-88fa-7258-8ad1-e30a59c03cf4) |
+| **Hack The Box** | Boxes, labs, real attack chains | [kR444k3n](https://profile.hackthebox.com/profile/019c6c73-88fa-7258-8ad1-e30a59c03cf4) |
 | **CyLab Academy** | Hands-on labs & training | [kr4k3nx](https://learn.cylabacademy.org/users/kr4k3nx) |
 
 </div>
