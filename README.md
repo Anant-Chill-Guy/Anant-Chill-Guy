@@ -33,21 +33,21 @@
 
 ## Intro
 
-### Happy by day, sad kid by night. Origin story? A plot twist, a lot of free time, in that order. I usually stay up all night on coffee and started calling two hours of sleep a "productive day". My sleep schedule isn't broken, it just runs in a timezone nobody else lives in.
+### Happy by day, sad kid by night. Origin story? A a lot of free time, in that order. I usually stay up all night on coffee and started calling two hours of sleep a "productive day". My sleep schedule isn't broken, it just runs in a timezone nobody else lives in. Sunrise and I are on speaking terms, but only because we keep running into each other.
 
-### My music playlist and my `.zshrc` would like a word. Both are very well organized, and both are pretty sad.
+### My music playlist and my `.zshrc` would like a word. Both are very well organized and both get attention from me.
 
-### Officially, I'm a CSE (AI) student. Unofficially, I'm a guy who asked "what happens if I pursue something else?" and got way more than I ever Thought I Could. Now I'm deep into **offensive security**: red teaming, web and network pentesting, recon, vulnerability analysis, privilege escalation, Active Directory, Windows security, Linux, networking and cryptography. Every single one of them started with "Let's try something new".
+### Officially, I'm a CSE (AI) student. Unofficially, I'm a guy who asked "what would happen if I pursue something else?" and got way more than I ever Thought I Could. Turns out curiosity is just a bug, you can't patch. Now I'm into **offensive security**: red teaming, web pentesting, network pentesting, recon, vulnerability analysis, privilege escalation, Active Directory, Windows pentesting, Linux, networking and cryptography. Every single one of them started with "Let's try something new" and ended with "what the hell am i doing at 4 AM".
 
-### CTFs are the only place where being stubborn at 3 AM gets rewarded with a scoreboard position instead of just an abandonment. Okay, also a feeling of emptiness sometimes. Somehow it has landed me a few top finishes, and my sleep schedule is already filing a request for credit.
+### CTFs are the only place where being stubborn at 3 AM gets rewarded with a scoreboard position instead of just an intervention. Okay, also a feeling of emptiness sometimes. Somehow it has landed me a few top finishes, and my sleep schedule is already filing a request for credit. My parents still think I'm "doing something with computers".
 
-### AI/ML fundamentals sit on the side, mostly so I can also see towards my academics, a side quest I take very seriously, roughly one week before exams. On the other days I just sit and enjoy the day with my laptop, which has pretty strong opinions about my bedtime, of which I'm unsure.
+### AI/ML fundamentals sit on the side, mostly so I can also see towards my academics, a side quest I take very seriously, roughly some days before exams. The syllabus and I have an understanding: it exists, I acknowledge it, and we meet when it's absolutely necessary. On the other days I just sit and enjoy the day with my laptop, which has pretty strong opinions about my bedtime, of which I'm unsure.
 
-### Yes, I use Arch, btw. Yes, I run Hyprland on it, and yes, I spend hours fixing it whenever it breaks. That's not a bug, that's a great feature and a hobby with extra steps. No, I'm not a freak, I just love ricing it until it's exactly how I like it. Does it make me faster at CTFs or offensive security? No. Does it make my desktop look incredible? Absolutely.
+### Yes, I use Arch, btw. Yes, I run Hyprland on it, and yes, I spend hours fixing it whenever it breaks. That's not a bug, that's a great feature and a hobby with extra steps. Some people go to the gym, I go to the Arch Wiki, Copy the Context and give it to my LLM. No, I'm not a freak, I just love ricing it until it's exactly how I like it. Does it make me faster at CTFs or offensive security? No. Does it make my desktop look incredible? Absolutely. Priorities.
 
-### It's just a kind of peace for me. Maybe I'm running away from my past, but I am what I am, and that's what matters. Also, nothing distracts you from a broken heart quite like a broken Arch setup.
+### It's just a kind of peace for me. Maybe I'm running away from my past, but I am what I am, and that's what matters. Also, nothing distracts you from a broken heart quite like a broken Arch setup. Pacman -Syu has never disappointed me any day with the troubles.
 
-### Anyway, that's the story. Coffee's getting cold, the scoreboard is open, and somewhere Arch got an update, it needs some fixes urgently. I have work to do.
+### Anyway, that's the story. Coffee's getting cold, the scoreboard is open, and somewhere Arch got an update, it needs some fixes urgently. I have work to do. Probably if i stay awake.
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
