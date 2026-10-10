@@ -31,13 +31,11 @@
 
 ## Intro
 
-### Happy by day, sad kid by night. Origin story? A a lot of free time, in that order. I usually stay up all night on coffee and started calling two hours of sleep a "productive day". My sleep schedule isn't broken, it just runs in a timezone nobody else lives in. Sunrise and I are on speaking terms, but only because we keep running into each other.
-
-### My music playlist and my `.zshrc` would like a word. Both are very well organized and both get attention from me.
+### I usually stay up all night on coffee and started calling two hours of sleep a "productive day". My sleep schedule isn't broken, it just runs in a timezone nobody else lives in.
 
 ### Officially, I'm a CSE (AI) student. Unofficially, I'm a guy who asked "what would happen if I pursue something else?" and got way more than I ever Thought I Could. Turns out curiosity is just a bug, you can't patch. Now I'm into **offensive security**: red teaming, web pentesting, network pentesting, recon, vulnerability analysis, privilege escalation, Active Directory, Windows pentesting, Linux, networking and cryptography. Every single one of them started with "Let's try something new" and ended with "what the hell am i doing at 4 AM".
 
-### CTFs are the only place where being stubborn at 3 AM gets rewarded with a scoreboard position instead of just an intervention. Okay, also a feeling of emptiness sometimes. Somehow it has landed me a few top finishes, and my sleep schedule is already filing a request for credit. My parents still think I'm "doing something with computers".
+### CTFs are the only place where being stubborn at 3 AM gets rewarded with a scoreboard position. Somehow it has landed me a few top finishes, and my sleep schedule is already filing a request for credit. My parents still think I'm "doing something with computers".
 
 ### AI/ML fundamentals sit on the side, mostly so I can also see towards my academics, a side quest I take very seriously, roughly some days before exams. The syllabus and I have an understanding: it exists, I acknowledge it, and we meet when it's absolutely necessary. On the other days I just sit and enjoy the day with my laptop, which has pretty strong opinions about my bedtime, of which I'm unsure.
 
