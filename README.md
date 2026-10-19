@@ -20,9 +20,7 @@
   alias     : KR4K3N
   role      : CSE (AI) student
   focus     : offensive security
-  stack     : web · network · active directory
-  habitat   : Arch Linux + Hyprland
-  hobbies   : CTFs · ricing · custom UIs
+  stack     : web & network pentesting 
 
 1CH1G0:1CH13 ~ ❯ █
 ```
@@ -31,45 +29,11 @@
 
 ## Intro
 
-### I usually stay up all night on coffee and started calling two hours of sleep a "productive day". My sleep schedule isn't broken, it just runs in a timezone nobody else lives in.
+### I usually stay up all night on coffee and started calling two hours of sleep a "productive day".
 
-### Officially, I'm a CSE (AI) student. Unofficially, I'm a guy who asked "what would happen if I pursue something else?" and got way more than I ever Thought I Could. Turns out curiosity is just a bug, you can't patch. Now I'm into **offensive security**: red teaming, web pentesting, network pentesting, recon, vulnerability analysis, privilege escalation, Active Directory, Windows pentesting, Linux, networking and cryptography. Every single one of them started with "Let's try something new" and ended with "what the hell am i doing at 4 AM".
+### Officially, I'm a CSE (AI) student. Unofficially, I'm a guy who asked "what would happen if I pursue something else?". Now I'm into **offensive security**: red teaming, web pentesting, network pentesting, recon, vulnerability analysis, privilege escalation, Active Directory, Windows pentesting, Linux, networking and cryptography. Every single one of them started with "Let's try something new" and ended with "what the hell am i doing at 4 AM".
 
-### CTFs are the only place where being stubborn at 3 AM gets rewarded with a scoreboard position. Somehow it has landed me a few top finishes, and my sleep schedule is already filing a request for credit. My parents still think I'm "doing something with computers".
-
-### AI/ML fundamentals sit on the side, mostly so I can also see towards my academics, a side quest I take very seriously, roughly some days before exams. The syllabus and I have an understanding: it exists, I acknowledge it, and we meet when it's absolutely necessary. On the other days I just sit and enjoy the day with my laptop, which has pretty strong opinions about my bedtime, of which I'm unsure.
-
-### Yes, I use Arch, btw. Yes, I run Hyprland on it, and yes, I spend hours fixing it whenever it breaks. That's not a bug, that's a great feature and a hobby with extra steps. Some people go to the gym, I go to the Arch Wiki, Copy the Context and give it to my LLM. No, I'm not a freak, I just love ricing it until it's exactly how I like it. Does it make me faster at CTFs or offensive security? No. Does it make my desktop look incredible? Absolutely. Priorities.
-
-### It's just a kind of peace for me. Maybe I'm running away from my past, but I am what I am, and that's what matters. Also, nothing distracts you from a broken heart quite like a broken Arch setup. Pacman -Syu has never disappointed me any day with the troubles.
-
-### Anyway, that's the story. Coffee's getting cold, the scoreboard is open, and somewhere Arch got an update, it needs some fixes urgently. I have work to do. Probably if i stay awake.
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
-## Currently Sharpening
-
-```text
- web pentesting      ████████████░░░░░░░░   exploitation & methodology
- network pentesting  ███████████░░░░░░░░░   enumeration & attack paths
- active directory    ████████░░░░░░░░░░░░   domains & lateral movement
- red teaming         ███████░░░░░░░░░░░░░   end-to-end attack chains
- ctf (jeopardy)      █████████████░░░░░░░   web · pwn · crypto · forensics
-```
-
-### Roadmap
-
-<div align="center">
-
-| Topic | Status |
-| :---- | :----: |
-| Linux fundamentals & Arch daily-driver | <img src="https://img.shields.io/badge/Done-0D1117?style=flat-square&color=00C9AE" alt="Done" /> |
-| Web vulns: SQLi, XSS, SSRF, auth & access control | <img src="https://img.shields.io/badge/Done-0D1117?style=flat-square&color=00C9AE" alt="Done" /> |
-| Network enumeration & service exploitation | <img src="https://img.shields.io/badge/Working-0D1117?style=flat-square&color=7B2FF7" alt="Working" /> |
-| Active Directory: Kerberos attacks, ACL abuse, domain takeover | <img src="https://img.shields.io/badge/Working-0D1117?style=flat-square&color=7B2FF7" alt="Working" /> |
-| Binary exploitation & reverse engineering | <img src="https://img.shields.io/badge/Maybe_someday-0D1117?style=flat-square&color=F15BB5" alt="Maybe_someday" /> |
-
-</div>
+### Anyway, that's the story. Coffee's getting cold, and somewhere Arch got an update, it needs some fixes urgently. I have work to do. Probably if i stay awake.
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
@@ -121,37 +85,6 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## Environment
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=00F5D4&color=7B2FF7" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Hyprland-0D1117?style=for-the-badge&logo=hyprland&logoColor=00F5D4&color=7B2FF7" alt="Hyprland" />
-  <img src="https://img.shields.io/badge/Wayland-0D1117?style=for-the-badge&logo=wayland&logoColor=00F5D4&color=7B2FF7" alt="Wayland" />
-  <img src="https://img.shields.io/badge/Zsh-0D1117?style=for-the-badge&logo=gnubash&logoColor=00F5D4&color=F15BB5" alt="Zsh" />
-  <img src="https://img.shields.io/badge/Terminal--first-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=00F5D4&color=F15BB5" alt="Terminal-first" />
-</p>
-
-```text
-  ╭─────────────────────────────────────────╮
-  │  os       Arch Linux                    │
-  │  wm       Hyprland (Wayland)            │
-  │  shell    Zsh                           │
-  │  theme    custom colors · blur · motion │
-  │  hobby    ricing · theming · custom UI  │
-  ╰─────────────────────────────────────────╯
-```
-
-<div align="center">
-
-| Ricing | Displays | UI |
-| :----: | :------: | :-: |
-| Dotfiles & configs | Custom layouts | Custom widgets |
-| Color schemes & themes | Multi-monitor setups | Animations & blur |
-| Fonts & icons | Wallpapers & lockscreens | Menus & notifications |
-
-</div>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## Hunting Grounds
 
